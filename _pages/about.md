@@ -26,8 +26,10 @@ Patents
 
 Awards
 ======
-* 12/2022: Excellent Master's Thesis of Jiangsu Province
-* 12/2020: National scholarship for Postgraduates
+* Excellent Master's Thesis of Jiangsu Province.
+* Excellent Master's Thesis of China University of Mining and Technology.
+* National Scholarship, P.R. China.
+* Xinjie Scholarship.
 
 
 Services
