@@ -21,22 +21,3 @@ Selected Publications
 [4] **Yipo Huang**, Leida Li, Hancheng Zhu, Bo Hu, "Blind Quality Index of Depth Images Based on Structural Statistics for View Synthesis", IEEE Signal Processing Letters, 2020. [[PDF]](https://yipoh.github.io/files/SPL2020_DSS.pdf) [[Code]](https://github.com/yipoh/DSS)
 
 
-Awards
-======
-* **National Scholarship, P.R. China**.
-* ****.
-* Excellent Master's Thesis of CUMT.
-* Assistance Program for Future Outstanding Talents of CUMT.
-* Xinjie Scholarship.
-
-
-Services
-======
-Journal Reviewer:
-* Neurocomputing
-* IET Image Processing
-
-Student Member:
-* IEEE
-* CAAI
-* CSIG
