@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the School of Artificial Intelligence, Xidian University, China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/). I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and obtained the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2017. My research interests include multimedia quality assessment, computational aesthetics and perceptual image processing.
 
-Papers
+Selected Publications
 ======
 [1] **Yipo Huang**, Leida Li, Yuzhe Yang, et al. "Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning", IEEE Transactions on Multimedia, 2022. [[PDF]](https://yipoh.github.io/files/TMM2022_SARQUE.pdf)
 
@@ -20,4 +20,15 @@ Papers
 
 [4] **Yipo Huang**, Leida Li, Hancheng Zhu, Bo Hu, "Blind Quality Index of Depth Images Based on Structural Statistics for View Synthesis", IEEE Signal Processing Letters, 2020. [[PDF]](https://yipoh.github.io/files/SPL2020_DSS.pdf) [[Code]](https://github.com/yipoh/DSS)
 
-[GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=P01gibMAAAAJ)/[ResearchGate](https://www.researchgate.net/profile/Yipo-Huang)/[DBLP](https://dblp.dagstuhl.de/pid/254/8276.html)/
+
+Patents
+======
+
+Awards
+======
+
+Services
+======
+Journal Reviewer:
+* Neurocomputing
+* IET Image Processing
