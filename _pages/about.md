@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 I am a PhD student at the School of Artificial Intelligence, Xidian University, China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/). I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and obtained the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2017. My research interests include multimedia quality assessment, computational aesthetics and perceptual image processing.
 
