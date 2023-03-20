@@ -84,10 +84,12 @@ author:
   avatar           : "Yipo.png"
   bio              : "School of Artificial Intelligence  Xidian University"
   location         : "Xi'an, China"
+  email            : "huangyipo@hotmail.com"
+  github           : "yipoh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=P01gibMAAAAJ"
-  email            : "huangyipo@hotmail.com"
+
   researchgate     : "https://www.researchgate.net/profile/Yipo-Huang"
   uri              :
   bitbucket        :
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yipoh"
+
   google_plus      :
   keybase          :
   instagram        :
