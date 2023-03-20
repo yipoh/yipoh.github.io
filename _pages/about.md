@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Artificial Intelligence, Xidian University, China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/). I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and obtained the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2017. My research interests include multimedia quality assessment, computational aesthetics and perceptual image processing.
-
+I am a PhD student at the School of Artificial Intelligence, Xidian University, China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/). I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and obtained the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2017. I am a Student Member of IEEE/CSIG/CAAI, a Journal Reviewer of Neurocomputing and IET Image Processing. My Master Thesis is awarded the **Excellent Master's Thesis of Jiangsu Province** in 2022. My research interests include multimedia quality assessment, computational aesthetics and perceptual image processing.
 
 Selected Publications
 ======
@@ -25,7 +24,7 @@ Selected Publications
 Awards
 ======
 * **National Scholarship, P.R. China**.
-* **Excellent Master's Thesis of Jiangsu Province**.
+* ****.
 * Excellent Master's Thesis of CUMT.
 * Assistance Program for Future Outstanding Talents of CUMT.
 * Xinjie Scholarship.
