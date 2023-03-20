@@ -26,9 +26,9 @@ Patents
 
 Awards
 ======
-* **Excellent Master's Thesis of Jiangsu Province.
+* **Excellent Master's Thesis of Jiangsu Province**.
 * Excellent Master's Thesis of China University of Mining and Technology.
-* **National Scholarship, P.R. China.
+* **National Scholarship, P.R. China**.
 * Xinjie Scholarship.
 
 
