@@ -85,10 +85,10 @@ author:
   bio              : "A PhD student"
   location         : "Xian"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=P01gibMAAAAJ"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Yipo-Huang"
+  email            : "huangyipo@hotmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Yipo-Huang"
   uri              :
   bitbucket        :
   codepen          :
