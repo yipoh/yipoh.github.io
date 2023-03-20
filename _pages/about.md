@@ -10,8 +10,13 @@ redirect_from:
 
 I am a PhD student at the School of Artificial Intelligence, Xidian University, China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/). I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and obtained the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2016. My research interests include multimedia quality assessment, computational aesthetics and perceptual image processing.
 
-News
+Papers
 ======
-* [2/2023]: One Paper entitled '*Theme-aware Visual Attribute Reasoning for Image Aesthetics Assessment*' is accepted by **IEEE Transactions on Circuits and Systems for Video Technology**.
-* [12/2022]: My Master thesis entitled '*Study on the Quality Prediction Metrics of View Synthesized Image*' is selected the "**Excellent Master's Thesis of Jiangsu Province**".
-* [11/2022]: One paper entitled '*Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning*' is accepted by **IEEE Transactions on Multimedia**.
+[1] **Yipo Huang**, Leida Li, Yuzhe Yang, et al. "Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning", IEEE Transactions on Multimedia, 2022. 
+
+[2] Leida Li, **Yipo Huang***, Jinjian Wu, et al. "Theme-aware Visual Attribute Reasoning for Image Aesthetics Assessment", IEEE Transactions on Circuits and Systems for Video Technology, 2023. 
+
+[3] Leida Li, **Yipo Huang***, Jinjian Wu, Ke Gu, Yuming Fang, "Predicting the Quality of View Synthesis With Color-Depth Image Fusion", IEEE Transactions on Circuits and Systems for Video Technology, vol. 31, no. 7, pp. 2509-2521, 2021. 
+
+[4] **Yipo Huang**, Leida Li*, Hancheng Zhu, Bo Hu, "Blind Quality Index of Depth Images Based on Structural Statistics for View Synthesis", IEEE Signal Processing Letters, 2020. 
+
