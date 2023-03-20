@@ -32,3 +32,8 @@ Services
 Journal Reviewer:
 * Neurocomputing
 * IET Image Processing
+
+Student Member:
+* IEEE
+* CAAI
+* CSIG
