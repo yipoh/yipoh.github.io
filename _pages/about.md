@@ -26,9 +26,10 @@ Patents
 
 Awards
 ======
-* **Excellent Master's Thesis of Jiangsu Province**.
-* Excellent Master's Thesis of China University of Mining and Technology.
 * **National Scholarship, P.R. China**.
+* **Excellent Master's Thesis of Jiangsu Province**.
+* Excellent Master's Thesis of CUMT.
+* Assistance Program for Future Outstanding Talents of CUMT.
 * Xinjie Scholarship.
 
 
