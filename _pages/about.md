@@ -20,4 +20,4 @@ Papers
 
 [4] **Yipo Huang**, Leida Li*, Hancheng Zhu, Bo Hu, "Blind Quality Index of Depth Images Based on Structural Statistics for View Synthesis", IEEE Signal Processing Letters, 2020. [[PDF]](https://yipoh.github.io/files/SPL2020_DSS.pdf) [[Code]](https://github.com/yipoh/DSS)
 
-[ResearchGate](https://www.researchgate.net/profile/Yipo-Huang)/[DBLP](https://dblp.dagstuhl.de/pid/254/8276.html)/
+[GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=P01gibMAAAAJ)/[ResearchGate](https://www.researchgate.net/profile/Yipo-Huang)/[DBLP](https://dblp.dagstuhl.de/pid/254/8276.html)/
