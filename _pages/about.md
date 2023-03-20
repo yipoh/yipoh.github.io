@@ -26,6 +26,9 @@ Patents
 
 Awards
 ======
+* 12/2022: Excellent Master's Thesis of Jiangsu Province
+* 12/2020: National scholarship for Postgraduates
+
 
 Services
 ======
