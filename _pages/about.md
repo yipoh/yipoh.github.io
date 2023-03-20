@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral (PhD) student at the [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/). I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and obtained the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2016. My Master Thesis got the Excellent Master's Thesis of Jiangsu Province.
+I am a Doctoral (PhD) student at the School of Artificial Intelligence, Xidian University, China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/). I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and obtained the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2016. My Master Thesis got the Excellent Master's Thesis of Jiangsu Province.
 
 News
 ======
