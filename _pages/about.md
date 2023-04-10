@@ -12,7 +12,7 @@ I am a PhD student at the School of Artificial Intelligence, Xidian University, 
 
 Selected Publications
 ======
-[1] **Yipo Huang**, Leida Li, Yuzhe Yang, et al. "Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning", IEEE Transactions on Multimedia, 2022. [[PDF]](https://yipoh.github.io/files/TMM2022_SARQUE.pdf)
+[1] **Yipo Huang**, Leida Li, Yuzhe Yang, et al. "Explainable and Generalizable Blind Image Quality Assessment via Semantic Attribute Reasoning", IEEE Transactions on Multimedia, 2022. [[PDF]](https://yipoh.github.io/files/TMM2022_SARQUE.pdf)[[Code]](https://github.com/yipoh/TAVAR)
 
 [2] Leida Li, **Yipo Huang***, Jinjian Wu, et al. "Theme-aware Visual Attribute Reasoning for Image Aesthetics Assessment", IEEE Transactions on Circuits and Systems for Video Technology, 2023. [[PDF]](https://yipoh.github.io/files/TCSVT2023_TAVAR.pdf)
 
