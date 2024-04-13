@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Artificial Intelligence, Xidian University, China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/), also a visiting PhD student at the School of Computer Science and Engineering, Nanyang Technological University, Singapore. I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2017. My Master's Thesis was awarded the Excellent Master's Thesis of Jiangsu Province in 2022, and the Excellent Master's Thesis of CUMT in 2021. I am a Journal Reviewer of Neurocomputing and [IET Image Processing](https://yipoh.github.io/files/IETIPR.pdf). My research interests include perceptual quality assessment, image aesthetics computing, and vision-language model.
+I am a PhD student at the School of Artificial Intelligence, Xidian University, China, under the supervision of [Prof. Dr. Leida Li](https://web.xidian.edu.cn/ldli/), also a visiting PhD student at the School of Computer Science and Engineering, Nanyang Technological University, Singapore. I obtained the M.Sc. degree in 2021 at the China University of Mining and Technology, Xuzhou, P.R. China, and the B.Sc. degree at the Zhengzhou University, Zhengzhou, P.R. China, in 2017. My Master's Thesis was awarded the Excellent Master's Thesis of Jiangsu Province in 2022, and the Excellent Master's Thesis of CUMT in 2021. My research interests include perceptual quality assessment, image aesthetics computing, and vision-language model.
 
 Selected Publications
 ======
